@@ -32,7 +32,7 @@ namespace WebMotors.Api.Controllers
         {
             var result = await _userService.GetAll();
 
-            return Ok(result);
+            return result.Any() ? Ok(result) : NoContent();
         }
 
         [HttpGet("{id}")]
