@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WebMotors.Domain\WebMotors.Domain.csproj" />
+    <ProjectReference Include="..\WebMotors.Infraestructure\WebMotors.Infraestructure.csproj" />
+  </ItemGroup>
+
+</Project>

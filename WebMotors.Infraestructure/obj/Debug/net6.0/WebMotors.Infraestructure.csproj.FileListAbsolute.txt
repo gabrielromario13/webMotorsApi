@@ -1,0 +1,17 @@
+D:\Study\WebMotors.Api\WebMotors.Infraestructure\bin\Debug\net6.0\WebMotors.Infraestructure.deps.json
+D:\Study\WebMotors.Api\WebMotors.Infraestructure\bin\Debug\net6.0\WebMotors.Infraestructure.runtimeconfig.json
+D:\Study\WebMotors.Api\WebMotors.Infraestructure\bin\Debug\net6.0\WebMotors.Infraestructure.dll
+D:\Study\WebMotors.Api\WebMotors.Infraestructure\bin\Debug\net6.0\WebMotors.Infraestructure.pdb
+D:\Study\WebMotors.Api\WebMotors.Infraestructure\bin\Debug\net6.0\WebMotors.Domain.dll
+D:\Study\WebMotors.Api\WebMotors.Infraestructure\bin\Debug\net6.0\WebMotors.Domain.pdb
+D:\Study\WebMotors.Api\WebMotors.Infraestructure\obj\Debug\net6.0\WebMotors.Infraestructure.csproj.AssemblyReference.cache
+D:\Study\WebMotors.Api\WebMotors.Infraestructure\obj\Debug\net6.0\WebMotors.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\WebMotors.Api\WebMotors.Infraestructure\obj\Debug\net6.0\WebMotors.Infraestructure.AssemblyInfoInputs.cache
+D:\Study\WebMotors.Api\WebMotors.Infraestructure\obj\Debug\net6.0\WebMotors.Infraestructure.AssemblyInfo.cs
+D:\Study\WebMotors.Api\WebMotors.Infraestructure\obj\Debug\net6.0\WebMotors.Infraestructure.csproj.CoreCompileInputs.cache
+D:\Study\WebMotors.Api\WebMotors.Infraestructure\obj\Debug\net6.0\WebMotors.Infraestructure.csproj.CopyComplete
+D:\Study\WebMotors.Api\WebMotors.Infraestructure\obj\Debug\net6.0\WebMotors.Infraestructure.dll
+D:\Study\WebMotors.Api\WebMotors.Infraestructure\obj\Debug\net6.0\refint\WebMotors.Infraestructure.dll
+D:\Study\WebMotors.Api\WebMotors.Infraestructure\obj\Debug\net6.0\WebMotors.Infraestructure.pdb
+D:\Study\WebMotors.Api\WebMotors.Infraestructure\obj\Debug\net6.0\WebMotors.Infraestructure.genruntimeconfig.cache
+D:\Study\WebMotors.Api\WebMotors.Infraestructure\obj\Debug\net6.0\ref\WebMotors.Infraestructure.dll
